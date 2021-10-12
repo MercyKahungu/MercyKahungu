@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Networking.
 - 🌱 I’m currently learning front-end programming.
 - 💞️ I’m looking to collaborate...
-- 📫 How to reach me : email:mercymilkahkahungu@gmail.com
+- 📫 How to reach me : email:mercymilkahkahungu@gmail.com or contacts: +254796178609
 
 <!---
 MercyKahungu/MercyKahungu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
