@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MercyKahungu
-- 👀 I’m interested in Programming and Networking.
-- 🌱 I’m currently learning front-end programming.
-- 💞️ I’m looking to collaborate...
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Front-End programming.
+- 💞️ I’m looking to collaborate with the great companies like Google, Microsoft or Apple.
 - 📫 How to reach me : email:mercymilkahkahungu@gmail.com or contacts: +254796178609
 
 <!---
